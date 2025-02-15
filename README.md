@@ -1,2 +1,1 @@
-# frontend
-Tech0-Lv1(local-confirm)
+# Tech0-Lv1(local-confirm)
